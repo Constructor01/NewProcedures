@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "title": "Generated voting (IC)",
+    "source": "Impartial Culture",
+    "total_voters": 500
+  },
+  "alternatives": [
+    "A",
+    "B",
+    "C"
+  ],
+  "rankings": [
+    {
+      "order": [
+        "C",
+        "A",
+        "B"
+      ],
+      "voters": 85
+    },
+    {
+      "order": [
+        "C",
+        "B",
+        "A"
+      ],
+      "voters": 82
+    },
+    {
+      "order": [
+        "A",
+        "C",
+        "B"
+      ],
+      "voters": 86
+    },
+    {
+      "order": [
+        "A",
+        "B",
+        "C"
+      ],
+      "voters": 82
+    },
+    {
+      "order": [
+        "B",
+        "C",
+        "A"
+      ],
+      "voters": 93
+    },
+    {
+      "order": [
+        "B",
+        "A",
+        "C"
+      ],
+      "voters": 72
+    }
+  ]
+}

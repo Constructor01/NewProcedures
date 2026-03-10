@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "title": "Test",
+    "source": "Test",
+    "total_voters": 60
+  },
+  "alternatives": [
+    "A",
+    "B",
+    "C"
+  ],
+  "rankings": [
+    {
+      "order": [
+        "A",
+        "B",
+        "C"
+      ],
+      "voters": 23
+    },
+    {
+      "order": [
+        "B",
+        "C",
+        "A"
+      ],
+      "voters": 17
+    },
+    {
+      "order": [
+        "B",
+        "A",
+        "C"
+      ],
+      "voters": 2
+    },
+    {
+      "order": [
+        "C",
+        "A",
+        "B"
+      ],
+      "voters": 10
+    },
+    {
+      "order": [
+        "C",
+        "B",
+        "A"
+      ],
+      "voters": 8
+    }
+  ]
+}

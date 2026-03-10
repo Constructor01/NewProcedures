@@ -29,7 +29,9 @@ public class CriteriaCalculator {
             for (int j = 0; j < m; j++) if (j != i) {
                 sum += G[i][j];
                 min = Math.min(min, G[i][j]);
-                if (G[i][j] < quorum) deficit += (quorum - G[i][j]);
+                if (G[i][j] < quorum){
+                    deficit += (quorum - G[i][j]);
+                }
             }
 
             fB[i] = sum;

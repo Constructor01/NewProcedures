@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "title": "Experts voting",
+    "source": "Correct generator",
+    "total_voters": 500
+  },
+  "alternatives": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "rankings": [
+    {
+      "order": [
+        "A",
+        "D",
+        "E",
+        "C",
+        "B"
+      ],
+      "voters": 148
+    },
+    {
+      "order": [
+        "D",
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "voters": 261
+    },
+    {
+      "order": [
+        "E",
+        "C",
+        "A",
+        "B",
+        "D"
+      ],
+      "voters": 49
+    },
+    {
+      "order": [
+        "E",
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "voters": 14
+    },
+    {
+      "order": [
+        "E",
+        "A",
+        "B",
+        "D",
+        "C"
+      ],
+      "voters": 4
+    },
+    {
+      "order": [
+        "A",
+        "C",
+        "D",
+        "B",
+        "E"
+      ],
+      "voters": 16
+    },
+    {
+      "order": [
+        "B",
+        "C",
+        "D",
+        "A",
+        "E"
+      ],
+      "voters": 1
+    },
+    {
+      "order": [
+        "A",
+        "D",
+        "C",
+        "E",
+        "B"
+      ],
+      "voters": 4
+    },
+    {
+      "order": [
+        "C",
+        "D",
+        "B",
+        "E",
+        "A"
+      ],
+      "voters": 2
+    },
+    {
+      "order": [
+        "C",
+        "B",
+        "D",
+        "E",
+        "A"
+      ],
+      "voters": 1
+    }
+  ]
+}

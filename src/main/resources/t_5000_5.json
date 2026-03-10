@@ -1,0 +1,1216 @@
+{
+  "metadata": {
+    "title": "Generated voting (IC)",
+    "source": "Impartial Culture",
+    "total_voters": 5000
+  },
+  "alternatives": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "rankings": [
+    {
+      "order": [
+        "A",
+        "E",
+        "C",
+        "B",
+        "D"
+      ],
+      "voters": 19
+    },
+    {
+      "order": [
+        "B",
+        "E",
+        "C",
+        "A",
+        "D"
+      ],
+      "voters": 56
+    },
+    {
+      "order": [
+        "E",
+        "D",
+        "A",
+        "C",
+        "B"
+      ],
+      "voters": 48
+    },
+    {
+      "order": [
+        "E",
+        "D",
+        "A",
+        "B",
+        "C"
+      ],
+      "voters": 48
+    },
+    {
+      "order": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "voters": 18
+    },
+    {
+      "order": [
+        "C",
+        "B",
+        "A",
+        "D",
+        "E"
+      ],
+      "voters": 35
+    },
+    {
+      "order": [
+        "A",
+        "D",
+        "E",
+        "B",
+        "C"
+      ],
+      "voters": 44
+    },
+    {
+      "order": [
+        "E",
+        "C",
+        "A",
+        "B",
+        "D"
+      ],
+      "voters": 60
+    },
+    {
+      "order": [
+        "D",
+        "A",
+        "C",
+        "B",
+        "E"
+      ],
+      "voters": 42
+    },
+    {
+      "order": [
+        "E",
+        "B",
+        "C",
+        "A",
+        "D"
+      ],
+      "voters": 36
+    },
+    {
+      "order": [
+        "B",
+        "C",
+        "A",
+        "D",
+        "E"
+      ],
+      "voters": 43
+    },
+    {
+      "order": [
+        "D",
+        "C",
+        "B",
+        "E",
+        "A"
+      ],
+      "voters": 30
+    },
+    {
+      "order": [
+        "C",
+        "E",
+        "A",
+        "B",
+        "D"
+      ],
+      "voters": 40
+    },
+    {
+      "order": [
+        "D",
+        "E",
+        "B",
+        "A",
+        "C"
+      ],
+      "voters": 50
+    },
+    {
+      "order": [
+        "A",
+        "B",
+        "E",
+        "D",
+        "C"
+      ],
+      "voters": 47
+    },
+    {
+      "order": [
+        "C",
+        "A",
+        "D",
+        "B",
+        "E"
+      ],
+      "voters": 39
+    },
+    {
+      "order": [
+        "D",
+        "E",
+        "C",
+        "B",
+        "A"
+      ],
+      "voters": 51
+    },
+    {
+      "order": [
+        "E",
+        "D",
+        "B",
+        "A",
+        "C"
+      ],
+      "voters": 47
+    },
+    {
+      "order": [
+        "B",
+        "E",
+        "C",
+        "D",
+        "A"
+      ],
+      "voters": 51
+    },
+    {
+      "order": [
+        "E",
+        "A",
+        "C",
+        "D",
+        "B"
+      ],
+      "voters": 45
+    },
+    {
+      "order": [
+        "C",
+        "A",
+        "B",
+        "E",
+        "D"
+      ],
+      "voters": 42
+    },
+    {
+      "order": [
+        "E",
+        "A",
+        "C",
+        "B",
+        "D"
+      ],
+      "voters": 48
+    },
+    {
+      "order": [
+        "D",
+        "A",
+        "E",
+        "B",
+        "C"
+      ],
+      "voters": 50
+    },
+    {
+      "order": [
+        "B",
+        "A",
+        "D",
+        "C",
+        "E"
+      ],
+      "voters": 56
+    },
+    {
+      "order": [
+        "D",
+        "A",
+        "C",
+        "E",
+        "B"
+      ],
+      "voters": 43
+    },
+    {
+      "order": [
+        "D",
+        "B",
+        "E",
+        "C",
+        "A"
+      ],
+      "voters": 32
+    },
+    {
+      "order": [
+        "E",
+        "B",
+        "C",
+        "D",
+        "A"
+      ],
+      "voters": 42
+    },
+    {
+      "order": [
+        "C",
+        "D",
+        "E",
+        "B",
+        "A"
+      ],
+      "voters": 39
+    },
+    {
+      "order": [
+        "B",
+        "E",
+        "A",
+        "D",
+        "C"
+      ],
+      "voters": 37
+    },
+    {
+      "order": [
+        "A",
+        "E",
+        "D",
+        "C",
+        "B"
+      ],
+      "voters": 36
+    },
+    {
+      "order": [
+        "C",
+        "A",
+        "E",
+        "D",
+        "B"
+      ],
+      "voters": 40
+    },
+    {
+      "order": [
+        "D",
+        "B",
+        "C",
+        "A",
+        "E"
+      ],
+      "voters": 39
+    },
+    {
+      "order": [
+        "B",
+        "D",
+        "E",
+        "A",
+        "C"
+      ],
+      "voters": 35
+    },
+    {
+      "order": [
+        "A",
+        "D",
+        "B",
+        "C",
+        "E"
+      ],
+      "voters": 52
+    },
+    {
+      "order": [
+        "D",
+        "C",
+        "A",
+        "E",
+        "B"
+      ],
+      "voters": 44
+    },
+    {
+      "order": [
+        "B",
+        "D",
+        "A",
+        "E",
+        "C"
+      ],
+      "voters": 41
+    },
+    {
+      "order": [
+        "C",
+        "D",
+        "A",
+        "E",
+        "B"
+      ],
+      "voters": 39
+    },
+    {
+      "order": [
+        "E",
+        "A",
+        "D",
+        "C",
+        "B"
+      ],
+      "voters": 36
+    },
+    {
+      "order": [
+        "B",
+        "E",
+        "D",
+        "C",
+        "A"
+      ],
+      "voters": 34
+    },
+    {
+      "order": [
+        "B",
+        "D",
+        "A",
+        "C",
+        "E"
+      ],
+      "voters": 47
+    },
+    {
+      "order": [
+        "D",
+        "E",
+        "A",
+        "C",
+        "B"
+      ],
+      "voters": 40
+    },
+    {
+      "order": [
+        "B",
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "voters": 43
+    },
+    {
+      "order": [
+        "E",
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "voters": 49
+    },
+    {
+      "order": [
+        "B",
+        "C",
+        "A",
+        "E",
+        "D"
+      ],
+      "voters": 41
+    },
+    {
+      "order": [
+        "B",
+        "C",
+        "E",
+        "D",
+        "A"
+      ],
+      "voters": 43
+    },
+    {
+      "order": [
+        "A",
+        "D",
+        "C",
+        "E",
+        "B"
+      ],
+      "voters": 39
+    },
+    {
+      "order": [
+        "B",
+        "D",
+        "C",
+        "E",
+        "A"
+      ],
+      "voters": 44
+    },
+    {
+      "order": [
+        "E",
+        "C",
+        "D",
+        "A",
+        "B"
+      ],
+      "voters": 38
+    },
+    {
+      "order": [
+        "C",
+        "A",
+        "D",
+        "E",
+        "B"
+      ],
+      "voters": 45
+    },
+    {
+      "order": [
+        "C",
+        "B",
+        "E",
+        "D",
+        "A"
+      ],
+      "voters": 49
+    },
+    {
+      "order": [
+        "C",
+        "D",
+        "B",
+        "A",
+        "E"
+      ],
+      "voters": 34
+    },
+    {
+      "order": [
+        "E",
+        "A",
+        "B",
+        "D",
+        "C"
+      ],
+      "voters": 45
+    },
+    {
+      "order": [
+        "B",
+        "A",
+        "E",
+        "C",
+        "D"
+      ],
+      "voters": 37
+    },
+    {
+      "order": [
+        "C",
+        "B",
+        "E",
+        "A",
+        "D"
+      ],
+      "voters": 41
+    },
+    {
+      "order": [
+        "C",
+        "D",
+        "E",
+        "A",
+        "B"
+      ],
+      "voters": 47
+    },
+    {
+      "order": [
+        "B",
+        "E",
+        "D",
+        "A",
+        "C"
+      ],
+      "voters": 44
+    },
+    {
+      "order": [
+        "B",
+        "A",
+        "E",
+        "D",
+        "C"
+      ],
+      "voters": 43
+    },
+    {
+      "order": [
+        "B",
+        "E",
+        "A",
+        "C",
+        "D"
+      ],
+      "voters": 43
+    },
+    {
+      "order": [
+        "E",
+        "D",
+        "C",
+        "B",
+        "A"
+      ],
+      "voters": 36
+    },
+    {
+      "order": [
+        "A",
+        "C",
+        "E",
+        "B",
+        "D"
+      ],
+      "voters": 45
+    },
+    {
+      "order": [
+        "A",
+        "D",
+        "E",
+        "C",
+        "B"
+      ],
+      "voters": 46
+    },
+    {
+      "order": [
+        "A",
+        "C",
+        "D",
+        "B",
+        "E"
+      ],
+      "voters": 44
+    },
+    {
+      "order": [
+        "E",
+        "C",
+        "B",
+        "A",
+        "D"
+      ],
+      "voters": 41
+    },
+    {
+      "order": [
+        "C",
+        "B",
+        "D",
+        "E",
+        "A"
+      ],
+      "voters": 42
+    },
+    {
+      "order": [
+        "D",
+        "E",
+        "C",
+        "A",
+        "B"
+      ],
+      "voters": 34
+    },
+    {
+      "order": [
+        "A",
+        "E",
+        "D",
+        "B",
+        "C"
+      ],
+      "voters": 51
+    },
+    {
+      "order": [
+        "B",
+        "D",
+        "E",
+        "C",
+        "A"
+      ],
+      "voters": 49
+    },
+    {
+      "order": [
+        "C",
+        "E",
+        "B",
+        "A",
+        "D"
+      ],
+      "voters": 42
+    },
+    {
+      "order": [
+        "A",
+        "C",
+        "B",
+        "D",
+        "E"
+      ],
+      "voters": 47
+    },
+    {
+      "order": [
+        "E",
+        "B",
+        "D",
+        "A",
+        "C"
+      ],
+      "voters": 37
+    },
+    {
+      "order": [
+        "D",
+        "E",
+        "A",
+        "B",
+        "C"
+      ],
+      "voters": 40
+    },
+    {
+      "order": [
+        "D",
+        "B",
+        "E",
+        "A",
+        "C"
+      ],
+      "voters": 40
+    },
+    {
+      "order": [
+        "D",
+        "B",
+        "A",
+        "E",
+        "C"
+      ],
+      "voters": 46
+    },
+    {
+      "order": [
+        "B",
+        "D",
+        "C",
+        "A",
+        "E"
+      ],
+      "voters": 42
+    },
+    {
+      "order": [
+        "D",
+        "C",
+        "B",
+        "A",
+        "E"
+      ],
+      "voters": 32
+    },
+    {
+      "order": [
+        "E",
+        "B",
+        "A",
+        "D",
+        "C"
+      ],
+      "voters": 49
+    },
+    {
+      "order": [
+        "D",
+        "B",
+        "C",
+        "E",
+        "A"
+      ],
+      "voters": 34
+    },
+    {
+      "order": [
+        "C",
+        "B",
+        "D",
+        "A",
+        "E"
+      ],
+      "voters": 46
+    },
+    {
+      "order": [
+        "C",
+        "E",
+        "B",
+        "D",
+        "A"
+      ],
+      "voters": 37
+    },
+    {
+      "order": [
+        "E",
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
+      "voters": 47
+    },
+    {
+      "order": [
+        "E",
+        "C",
+        "B",
+        "D",
+        "A"
+      ],
+      "voters": 48
+    },
+    {
+      "order": [
+        "A",
+        "B",
+        "D",
+        "E",
+        "C"
+      ],
+      "voters": 42
+    },
+    {
+      "order": [
+        "E",
+        "C",
+        "A",
+        "D",
+        "B"
+      ],
+      "voters": 43
+    },
+    {
+      "order": [
+        "E",
+        "D",
+        "C",
+        "A",
+        "B"
+      ],
+      "voters": 37
+    },
+    {
+      "order": [
+        "D",
+        "E",
+        "B",
+        "C",
+        "A"
+      ],
+      "voters": 48
+    },
+    {
+      "order": [
+        "B",
+        "C",
+        "D",
+        "A",
+        "E"
+      ],
+      "voters": 44
+    },
+    {
+      "order": [
+        "A",
+        "B",
+        "D",
+        "C",
+        "E"
+      ],
+      "voters": 45
+    },
+    {
+      "order": [
+        "A",
+        "B",
+        "C",
+        "E",
+        "D"
+      ],
+      "voters": 40
+    },
+    {
+      "order": [
+        "C",
+        "D",
+        "B",
+        "E",
+        "A"
+      ],
+      "voters": 43
+    },
+    {
+      "order": [
+        "A",
+        "E",
+        "B",
+        "C",
+        "D"
+      ],
+      "voters": 33
+    },
+    {
+      "order": [
+        "E",
+        "A",
+        "D",
+        "B",
+        "C"
+      ],
+      "voters": 33
+    },
+    {
+      "order": [
+        "D",
+        "C",
+        "E",
+        "B",
+        "A"
+      ],
+      "voters": 35
+    },
+    {
+      "order": [
+        "D",
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "voters": 44
+    },
+    {
+      "order": [
+        "C",
+        "E",
+        "D",
+        "B",
+        "A"
+      ],
+      "voters": 46
+    },
+    {
+      "order": [
+        "D",
+        "C",
+        "E",
+        "A",
+        "B"
+      ],
+      "voters": 49
+    },
+    {
+      "order": [
+        "E",
+        "C",
+        "D",
+        "B",
+        "A"
+      ],
+      "voters": 47
+    },
+    {
+      "order": [
+        "D",
+        "C",
+        "A",
+        "B",
+        "E"
+      ],
+      "voters": 41
+    },
+    {
+      "order": [
+        "C",
+        "A",
+        "E",
+        "B",
+        "D"
+      ],
+      "voters": 44
+    },
+    {
+      "order": [
+        "A",
+        "D",
+        "C",
+        "B",
+        "E"
+      ],
+      "voters": 46
+    },
+    {
+      "order": [
+        "A",
+        "B",
+        "E",
+        "C",
+        "D"
+      ],
+      "voters": 46
+    },
+    {
+      "order": [
+        "D",
+        "A",
+        "E",
+        "C",
+        "B"
+      ],
+      "voters": 38
+    },
+    {
+      "order": [
+        "A",
+        "D",
+        "B",
+        "E",
+        "C"
+      ],
+      "voters": 38
+    },
+    {
+      "order": [
+        "A",
+        "C",
+        "E",
+        "D",
+        "B"
+      ],
+      "voters": 39
+    },
+    {
+      "order": [
+        "A",
+        "C",
+        "D",
+        "E",
+        "B"
+      ],
+      "voters": 35
+    },
+    {
+      "order": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A"
+      ],
+      "voters": 25
+    },
+    {
+      "order": [
+        "E",
+        "B",
+        "D",
+        "C",
+        "A"
+      ],
+      "voters": 33
+    },
+    {
+      "order": [
+        "C",
+        "E",
+        "A",
+        "D",
+        "B"
+      ],
+      "voters": 39
+    },
+    {
+      "order": [
+        "D",
+        "A",
+        "B",
+        "E",
+        "C"
+      ],
+      "voters": 46
+    },
+    {
+      "order": [
+        "C",
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "voters": 50
+    },
+    {
+      "order": [
+        "B",
+        "A",
+        "D",
+        "E",
+        "C"
+      ],
+      "voters": 35
+    },
+    {
+      "order": [
+        "B",
+        "A",
+        "C",
+        "E",
+        "D"
+      ],
+      "voters": 43
+    },
+    {
+      "order": [
+        "A",
+        "C",
+        "B",
+        "E",
+        "D"
+      ],
+      "voters": 46
+    },
+    {
+      "order": [
+        "B",
+        "C",
+        "E",
+        "A",
+        "D"
+      ],
+      "voters": 49
+    },
+    {
+      "order": [
+        "A",
+        "E",
+        "C",
+        "D",
+        "B"
+      ],
+      "voters": 31
+    },
+    {
+      "order": [
+        "C",
+        "D",
+        "A",
+        "B",
+        "E"
+      ],
+      "voters": 47
+    },
+    {
+      "order": [
+        "C",
+        "B",
+        "A",
+        "E",
+        "D"
+      ],
+      "voters": 32
+    },
+    {
+      "order": [
+        "C",
+        "E",
+        "D",
+        "A",
+        "B"
+      ],
+      "voters": 35
+    },
+    {
+      "order": [
+        "D",
+        "B",
+        "A",
+        "C",
+        "E"
+      ],
+      "voters": 44
+    },
+    {
+      "order": [
+        "A",
+        "E",
+        "B",
+        "D",
+        "C"
+      ],
+      "voters": 38
+    },
+    {
+      "order": [
+        "E",
+        "D",
+        "B",
+        "C",
+        "A"
+      ],
+      "voters": 30
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "summary": {
+    "alternatives": 11,
+    "voters": 5000,
+    "step": 0.050
+  },
+  "alternatives": [
+    {
+      "name": "A",
+      "fB": 24940.0,
+      "s": 2452,
+      "d": 134,
+      "full_avg_rank": 6.729357798165138,
+      "full_best_rank": 6,
+      "full_worst_rank": 8,
+      "full_strict_win_percent": 0.00,
+      "full_any_win_percent": 0.00
+    },
+    {
+      "name": "B",
+      "fB": 24802.0,
+      "s": 2419,
+      "d": 250,
+      "full_avg_rank": 10.243119266055047,
+      "full_best_rank": 10,
+      "full_worst_rank": 11,
+      "full_strict_win_percent": 0.00,
+      "full_any_win_percent": 0.00
+    },
+    {
+      "name": "C",
+      "fB": 25278.0,
+      "s": 2498,
+      "d": 3,
+      "full_avg_rank": 1.3211009174311927,
+      "full_best_rank": 1,
+      "full_worst_rank": 2,
+      "full_strict_win_percent": 62.39,
+      "full_any_win_percent": 67.89
+    },
+    {
+      "name": "D",
+      "fB": 24896.0,
+      "s": 2458,
+      "d": 140,
+      "full_avg_rank": 8.5,
+      "full_best_rank": 7,
+      "full_worst_rank": 9,
+      "full_strict_win_percent": 0.00,
+      "full_any_win_percent": 0.00
+    },
+    {
+      "name": "E",
+      "fB": 24767.0,
+      "s": 2437,
+      "d": 258,
+      "full_avg_rank": 10.756880733944953,
+      "full_best_rank": 10,
+      "full_worst_rank": 11,
+      "full_strict_win_percent": 0.00,
+      "full_any_win_percent": 0.00
+    },
+    {
+      "name": "F",
+      "fB": 25069.0,
+      "s": 2469,
+      "d": 100,
+      "full_avg_rank": 4.032110091743119,
+      "full_best_rank": 4,
+      "full_worst_rank": 5,
+      "full_strict_win_percent": 0.00,
+      "full_any_win_percent": 0.00
+    },
+    {
+      "name": "G",
+      "fB": 24966.0,
+      "s": 2474,
+      "d": 110,
+      "full_avg_rank": 4.967889908256881,
+      "full_best_rank": 4,
+      "full_worst_rank": 5,
+      "full_strict_win_percent": 0.00,
+      "full_any_win_percent": 0.00
+    },
+    {
+      "name": "H",
+      "fB": 25122.0,
+      "s": 2483,
+      "d": 41,
+      "full_avg_rank": 3.0,
+      "full_best_rank": 3,
+      "full_worst_rank": 3,
+      "full_strict_win_percent": 0.00,
+      "full_any_win_percent": 0.00
+    },
+    {
+      "name": "I",
+      "fB": 24938.0,
+      "s": 2439,
+      "d": 146,
+      "full_avg_rank": 8.417431192660551,
+      "full_best_rank": 7,
+      "full_worst_rank": 9,
+      "full_strict_win_percent": 0.00,
+      "full_any_win_percent": 0.00
+    },
+    {
+      "name": "J",
+      "fB": 24938.0,
+      "s": 2466,
+      "d": 138,
+      "full_avg_rank": 6.353211009174312,
+      "full_best_rank": 6,
+      "full_worst_rank": 8,
+      "full_strict_win_percent": 0.00,
+      "full_any_win_percent": 0.00
+    },
+    {
+      "name": "K",
+      "fB": 25284.0,
+      "s": 2494,
+      "d": 7,
+      "full_avg_rank": 1.6788990825688073,
+      "full_best_rank": 1,
+      "full_worst_rank": 2,
+      "full_strict_win_percent": 32.11,
+      "full_any_win_percent": 37.61
+    }
+  ],
+  "procedures": {
+    "full": {
+      "ties": 12.0,
+      "combinations": 218
+    },
+    "borda_simpson": {
+      "ties": 1.0,
+      "combinations": 21
+    },
+    "borda_dodgson": {
+      "ties": 1.0,
+      "combinations": 21
+    }
+  }
+}
