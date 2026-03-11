@@ -373,4 +373,24 @@ public class WeightAnalyzer {
 
         return winners;
     }
+
+    public static int[] rankingFromStats(Stats stats) {
+
+        int m = stats.avgRank.length;
+
+        Integer[] order = new Integer[m];
+
+        for (int i = 0; i < m; i++)
+            order[i] = i;
+
+        java.util.Arrays.sort(order,
+                (a,b)->Double.compare(stats.avgRank[a], stats.avgRank[b]));
+
+        int[] rank = new int[m];
+
+        for (int i = 0; i < m; i++)
+            rank[order[i]] = i + 1;
+
+        return rank;
+    }
 }

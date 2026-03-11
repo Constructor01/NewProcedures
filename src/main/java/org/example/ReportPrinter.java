@@ -45,6 +45,8 @@ public class ReportPrinter {
         printBlock("Процедура Борда", profile, r.borda);
         printBlock("Процедура Симпсона", profile, r.simpson);
         printBlock("Процедура Доджсона", profile, r.dodgson);
+
+        printKendall(profile, r);
     }
 
     private static void printBlock(String title,
@@ -197,5 +199,36 @@ public class ReportPrinter {
         json.append("}\n");
 
         Files.write(outputFile, json.toString().getBytes("UTF-8"));
+    }
+
+    private static void printKendall(PreferenceProfile profile,
+                                     WeightAnalyzer.Result r) {
+
+        int[] full = WeightAnalyzer.rankingFromStats(r.full);
+        int[] bs = WeightAnalyzer.rankingFromStats(r.bsOnly);
+        int[] bd = WeightAnalyzer.rankingFromStats(r.bdOnly);
+        int[] borda = WeightAnalyzer.rankingFromStats(r.borda);
+        int[] simpson = WeightAnalyzer.rankingFromStats(r.simpson);
+        int[] dodgson = WeightAnalyzer.rankingFromStats(r.dodgson);
+
+        System.out.println("Сходство ранжировок (Kendall similarity %)");
+        System.out.println("-----------------------------------------------------");
+
+        printSim("Full vs B+S", full, bs);
+        printSim("Full vs B+D", full, bd);
+        printSim("Full vs Borda", full, borda);
+        printSim("Full vs Simpson", full, simpson);
+        printSim("Full vs Dodgson", full, dodgson);
+
+        System.out.println("-----------------------------------------------------");
+    }
+    private static void printSim(String name, int[] r1, int[] r2) {
+
+        double sim = KendallCorrelation.similarityPercent(r1, r2);
+
+        System.out.printf(java.util.Locale.ROOT,
+                "%-25s : %6.2f %%\n",
+                name,
+                sim);
     }
 }
