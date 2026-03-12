@@ -12,7 +12,7 @@ public class Application {
     public static void main(String[] args) throws Exception {
 
         double step = 0.05;
-        String jsonFile = "src/main/resources/t_5000_11.json";
+        String jsonFile = "src/main/resources/t_5000_25.json";
 
         Path output = Paths.get("src/main/resources/report.json");
 
