@@ -47,6 +47,7 @@ public class ReportPrinter {
         printBlock("Процедура Доджсона", profile, r.dodgson);
 
         printKendall(profile, r);
+        printKendallMatrix(r);
     }
 
     private static void printBlock(String title,
@@ -230,5 +231,56 @@ public class ReportPrinter {
                 "%-25s : %6.2f %%\n",
                 name,
                 sim);
+    }
+    private static void printKendallMatrix(WeightAnalyzer.Result r) {
+
+        int[][] rankings = new int[][]{
+                WeightAnalyzer.rankingFromStats(r.full),
+                WeightAnalyzer.rankingFromStats(r.bsOnly),
+                WeightAnalyzer.rankingFromStats(r.bdOnly),
+                WeightAnalyzer.rankingFromStats(r.borda),
+                WeightAnalyzer.rankingFromStats(r.simpson),
+                WeightAnalyzer.rankingFromStats(r.dodgson)
+        };
+
+        String[] names = {
+                "Full",
+                "B+S",
+                "B+D",
+                "Borda",
+                "Simpson",
+                "Dodgson"
+        };
+
+        int k = rankings.length;
+
+        System.out.println("Матрица сходства ранжировок (Kendall similarity %)");
+        System.out.println("-----------------------------------------------------------------------");
+
+        System.out.printf("%12s", "");
+
+        for (String name : names)
+            System.out.printf("%10s", name);
+
+        System.out.println();
+
+        for (int i = 0; i < k; i++) {
+
+            System.out.printf("%12s", names[i]);
+
+            for (int j = 0; j < k; j++) {
+
+                double sim = KendallCorrelation.similarityPercent(
+                        rankings[i],
+                        rankings[j]
+                );
+
+                System.out.printf("%10.2f", sim);
+            }
+
+            System.out.println();
+        }
+
+        System.out.println("-----------------------------------------------------------------------");
     }
 }
